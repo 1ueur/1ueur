@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 
 <br>
 
-## Introduction 👩🏼‍💻
+> Information Security Professional
+## Introduction 🔥
 - 2000.10.09
 - 삼육대학교 컴퓨터메카트로닉스공학부 컴퓨터공학전공 19학번
 - 승철오빠랑 결혼예정👰🏻‍♀️
 
-## Learning 👀
+## Learning 👩🏼‍💻
 - C, C++, JS
 - Algorithm
 - Network Security
