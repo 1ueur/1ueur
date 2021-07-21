@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 - 삼육대학교 컴퓨터메카트로닉스공학부 컴퓨터공학전공 19학번
 - 승철오빠랑 결혼예정👰🏻‍♀️
 
-## Interest 👀
+## Learning 👀
 - C, C++, JS
-- Information security
+- Network Security
