@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 
 ## Learning 👀
 - C, C++, JS
+- Algorithm
 - Network Security
