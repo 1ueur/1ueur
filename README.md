@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 - Web Security
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princesssuna&&show_icons=true&theme=dracula)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princesssuna&&show_icons=true&theme=dracula)
