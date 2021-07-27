@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=princesssuna&&show_icons=true&theme=dracula)
 
-<img src="https://img.shields.io/badge/c-#A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
+
