@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 [![Blog Badge](http://img.shields.io/badge/-Blog-pink?style=flat-square&logo=FF5722&link=https://velog.io/@elfinsun)](https://velog.io/@elfinsun)
 
 -->
-<h3 align="center"> 💎 보안 전문가 💎 </h3>
+<h3 align="center"> 💎 악성코드 분석 전문가 💎 </h3>
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
