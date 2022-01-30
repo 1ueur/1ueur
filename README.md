@@ -64,7 +64,7 @@ SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=OWASP&logoColor=white"/>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=CentOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FFFF00?style=flat&logo=Linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FFFF00?style=flat&logo=Linux&logoColor=black"/>
   <br/>  
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
