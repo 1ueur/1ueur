@@ -1,7 +1,8 @@
 
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Seon%20A's%20GitHub&fontSize=25) 랜덤 -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ee9ca7,100:ffdde1&height=200&section=header&text=Seona%20A's%20GitHub&fontSize=25&fontColor=ffffff)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ee9ca7,100:ffdde1&height=200&section=header&text=Seona%20A's%20GitHub&fontSize=25&fontColor=ffffff)
+-->
 
 <!--
 **princesssuna/princesssuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 [![Blog Badge](http://img.shields.io/badge/-Blog-pink?style=flat-square&logo=FF5722&link=https://velog.io/@elfinsun)](https://velog.io/@elfinsun)
 
 -->
-<h3 align="center"> 💎 악성코드 분석 전문가 💎 </h3>
+<!-- <h3 align="center"> 💎 악성코드 분석 전문가 💎 </h3> -->
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:1009suna@gmail.com"/>
   </a>
   <a href="https://velog.io/@elfinsun">
-    <img src="http://img.shields.io/badge/-Blog-pink?style=flat&logo=FF5722&link=https://velog.io/@elfinsun"/>
+    <img src="http://img.shields.io/badge/-Velog-pink?style=flat&logo=FF5722&link=https://velog.io/@elfinsun"/>
   </a>
 </p>
 
@@ -60,20 +61,20 @@ SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/> -->
   <br>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=OWASP&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=CentOS&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=OWASP&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=CentOS&logoColor=white"/> -->
   <img src="https://img.shields.io/badge/Linux-FFFF00?style=flat&logo=Linux&logoColor=black"/>
   <br/>  
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> -->
 </p>
 
 <!--
@@ -89,4 +90,4 @@ SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공
 
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ee9ca7,100:ffdde1&height=200&section=footer)
+<!-- ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:ee9ca7,100:ffdde1&height=200&section=footer) -->
