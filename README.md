@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:1009suna@gmail.com"/>
   </a>
   <a href="https://velog.io/@elfinsun">
-    <img src="http://img.shields.io/badge/-Velog-pink?style=flat&logo=FF5722&link=https://velog.io/@elfinsun"/>
+    <img src="https://img.shields.io/badge/Velog-pink?style=flat&logo=Velog&logoColor=white"/>
   </a>
 </p>
 
@@ -61,7 +61,7 @@ SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=Windows&logoColor=white"/> -->
   <br>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
@@ -69,7 +69,7 @@ SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=OWASP&logoColor=white"/> -->
   <!-- <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=CentOS&logoColor=white"/> -->
-  <img src="https://img.shields.io/badge/Linux-FFFF00?style=flat&logo=Linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
   <br/>  
   <!-- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
