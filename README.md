@@ -45,10 +45,10 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center"> ✏️ Introduction <br/> </h3>
-<br>
 <h4 align="center">
 2000.10.09 <br/>
 SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공 <br/>
+<br>
 KITRI Best of the Best(BoB) 11기
 </h4>
 
