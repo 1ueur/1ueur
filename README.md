@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 [![Blog Badge](http://img.shields.io/badge/-Blog-pink?style=flat-square&logo=FF5722&link=https://velog.io/@elfinsun)](https://velog.io/@elfinsun)
 
 -->
-<!-- <h3 align="center"> 💎 악성코드 분석 전문가 💎 </h3> -->
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
@@ -46,10 +45,11 @@ Here are some ideas to get you started:
 <br>
 
 <h3 align="center"> ✏️ Introduction <br/> </h3>
-
+<br>
 <h4 align="center">
 2000.10.09 <br/>
-SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공
+SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공 <br/>
+KITRI Best of the Best(BoB) 11기
 </h4>
 
 <br>
