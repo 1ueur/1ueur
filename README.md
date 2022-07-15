@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 
 -->
 
+<h1 align="center">Future Security Researcher</h1>
+
+<br/>
+
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/>
@@ -49,7 +53,7 @@ Here are some ideas to get you started:
 2000.10.09 <br/>
 SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공 <br/>
 <br>
-KITRI Best of the Best(BoB) 11기
+KITRI "Best of the Best" 11기
 </h4>
 
 <br>
