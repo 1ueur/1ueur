@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 -->
 
-<h1 align="center">Future Security Researcher</h1>
+<h1 align="center">Security Researcher</h1>
 
 <br/>
 
