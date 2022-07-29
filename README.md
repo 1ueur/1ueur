@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 2000.10.09 <br/>
 SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공 <br/>
 <br>
-KITRI "Best of the Best" 11기
+KITRI "Best of the Best" 11기 취약점 분석 트랙
 </h4>
 
 <br>
