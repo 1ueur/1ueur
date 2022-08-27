@@ -70,6 +70,7 @@ KITRI "Best of the Best" 11기 취약점 분석 트랙
   <br>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=OWASP&logoColor=white"/> -->
   <!-- <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=CentOS&logoColor=white"/> -->
