@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 2000.10.09 <br/>
 SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공 <br/>
 <br>
-KITRI "Best of the Best" 11기 취약점 분석 트랙
+KITRI Best of the Best(BoB) 11기 취약점 분석 트랙
 </h4>
 
 <br>
@@ -63,6 +63,8 @@ KITRI "Best of the Best" 11기 취약점 분석 트랙
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
