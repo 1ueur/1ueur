@@ -40,8 +40,8 @@ Here are some ideas to get you started:
   <a href="mailto:1009suna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:1009suna@gmail.com"/>
   </a>
-  <a href="https://velog.io/@elfinsun">
-    <img src="https://img.shields.io/badge/Velog-pink?style=flat&logo=Velog&logoColor=white"/>
+  <a href="https://1ueur.tistory.com">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
   </a>
 </p>
 
