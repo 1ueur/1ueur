@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-# ❤️ 선아 Seona ❤️ -->
+-->
 
 
 <!--
@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 
 -->
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffc1cc&text=&animation=twinkling&height=100)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ffc1cc&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Seona's+GitHub!)](https://git.io/typing-svg)
+ 
+
 <h1 align="center">Security Researcher</h1>
 
 <br/>
@@ -37,31 +42,36 @@ Here are some ideas to get you started:
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/>
   </a>
+  <br/>
   <a href="mailto:1009suna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:1009suna@gmail.com"/>
   </a>
-  <a href="https://1ueur.tistory.com">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/(No access)Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
   </a>
-  <a href="https://velog.io/@elfinsun">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/(No access)Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/(No access)Portfolio-394EFF?style=flat&logo=Notion&logoColor=white"/>
   </a>
 </p>
 
 
 <br>
 
-<h3 align="center"> ✏️ Introduction <br/> </h3>
+<h3 align="center"> ✨ Introduction ✨ <br/> </h3>
 <h4 align="center">
 2000.10.09 <br/>
-SAHMYOOK Univ. 컴퓨터메카트로닉스공학부 컴퓨터공학전공 <br/>
+SAHMYOOK Univ. Department of Computer Mechatronics Engineering, Computer Engineering <br/>
 <br>
-KITRI Best of the Best(BoB) 11기 취약점 분석 트랙
+KITRI Best of the Best(BoB) 11th Vulnerability Analysis <br/>
+SK shieldus Rookies 14th
 </h4>
 
 <br>
 
-<h3 align="center"> ✏️ Tech Stack <br/> </h3>
+<h3 align="center"> 🛠️ Tech Stack & Tools 🛠️ <br/> </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -72,14 +82,16 @@ KITRI Best of the Best(BoB) 11기 취약점 분석 트랙
   <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/>
-  <!-- <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=OWASP&logoColor=white"/> -->
-  <!-- <img src="https://img.shields.io/badge/CentOS-262577?style=flat&logo=CentOS&logoColor=white"/> -->
+  <br>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
+  <!-- <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/> -->
+  <!-- <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=OWASP&logoColor=white"/> -->
   <br/>  
   <!-- <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/>
