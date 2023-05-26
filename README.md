@@ -46,12 +46,14 @@ Here are some ideas to get you started:
   <a href="mailto:1009suna@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:1009suna@gmail.com"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/(No access)Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+  <a href="https://seo1-say.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
   </a>
+ <!--
   <a href="#">
     <img src="https://img.shields.io/badge/(No access)Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
   </a>
+-->
   <a href="#">
     <img src="https://img.shields.io/badge/(No access)Portfolio-394EFF?style=flat&logo=Notion&logoColor=white"/>
   </a>
