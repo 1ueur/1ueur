@@ -34,11 +34,11 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ffc1cc&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Seona's+GitHub!)](https://git.io/typing-svg)
  
 
-<h1 align="center">Security Researcher</h1>
+<h1>Security Researcher</h1>
 
 <br/>
 
-<p align="center">
+<p>
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/>
   </a>
@@ -55,27 +55,32 @@ Here are some ideas to get you started:
   </a>
 -->
   <a href="#">
-    <img src="https://img.shields.io/badge/(No access)Portfolio-394EFF?style=flat&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-394EFF?style=flat&logo=Notion&logoColor=white"/>
   </a>
 </p>
 
 
 <br>
 
-<h3 align="center"> ✨ Introduction ✨ <br/> </h3>
-<h4 align="center">
-2000.10.09 <br/>
-SAHMYOOK Univ. Department of Computer Mechatronics Engineering, Computer Engineering <br/>
+<h3> ✨ Introduction <br/> </h3>
+<h4>
+2000.10.09<br/>
+<br/>
+SAHMYOOK Univ.<br/>Department of Computer Mechatronics Engineering,<br/>Computer Engineering <br/>
+</h4>
 <br>
-KITRI Best of the Best(BoB) 11th Vulnerability Analysis <br/>
-SK shieldus Rookies 14th
+<h3> 🌙 Experience <br/> </h3>
+<h4>
+● KITRI Best of the Best(BoB) 11th Vulnerability Analysis (22.07 - 23.03) <br/>
+ <br/>
+● SK shieldus Rookies 14th (23.05 - 23.11)
 </h4>
 
 <br>
 
-<h3 align="center"> 🛠️ Tech Stack & Tools 🛠️ <br/> </h3>
+<h3> 🛠️ Tech Stack & Tools 🛠️ <br/> </h3>
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
