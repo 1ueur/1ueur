@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 <h4>
 2000.10.09<br/>
 <br/>
-SAHMYOOK Univ.<br/>Department of Computer Mechatronics Engineering,<br/>Computer Engineering <br/>
+SAHMYOOK Univ.<br/>Department of Computer Engineering,<br/>Computer Engineering <br/>
 </h4>
 <br>
 <h3> 🌙 Experience <br/> </h3>
@@ -78,7 +78,7 @@ SAHMYOOK Univ.<br/>Department of Computer Mechatronics Engineering,<br/>Computer
 
 <br>
 
-<h3> 🛠️ Tech Stack & Tools 🛠️ <br/> </h3>
+<h3> 🛠️ Tech Stack & Tools <br/> </h3>
 
 <p>
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/>
@@ -88,13 +88,16 @@ SAHMYOOK Univ.<br/>Department of Computer Mechatronics Engineering,<br/>Computer
   <br>
   <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=macOS&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=Ubuntu&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat&logo=Splunk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=Wireshark&logoColor=white"/>
+  <br>
+  <!--
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat&logo=VirtualBox&logoColor=white"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/>
-  <br>
+  -->
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
   <!-- <img src="https://img.shields.io/badge/Qt-41CD52?style=flat&logo=Qt&logoColor=white"/> -->
