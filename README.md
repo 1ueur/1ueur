@@ -68,6 +68,20 @@ Here are some ideas to get you started:
 <br/>
 SAHMYOOK Univ.<br/>Department of Computer Engineering,<br/>Computer Engineering <br/>
 </h4>
+
+```
+''''''''''''''''''''zero
+          __     
+        /'__`\   
+       /\ \/\ \  
+       \ \ \ \ \ 
+        \ \ \_\ \
+         \ \____/
+          \/___/ 
+
+''''''''''''''''''''''''
+```
+
 <br>
 <h3> 🌙 Experience <br/> </h3>
 <h4>
