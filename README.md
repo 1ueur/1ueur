@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=ffc1cc&center=true&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Seona's+GitHub!)](https://git.io/typing-svg)
  
 
-<h1>Security Researcher</h1>
+# Security Researcher
 
 <br/>
 
