@@ -15,9 +15,9 @@
   <a href="mailto:salee3@sk.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:salee3@sk.com"/>
   </a>
-  <!--<a href="https://seo1-say.tistory.com/">
-    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
-  </a> -->
+  <a href="https://2er0127.github.io">
+    <img src="https://img.shields.io/badge/githubpages-222222?style=flat&logo=githubpages&logoColor=white"/>
+  </a>
  <!--
   <a href="#">
     <img src="https://img.shields.io/badge/(No access)Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
