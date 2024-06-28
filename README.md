@@ -12,12 +12,6 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchajuhui123&count_bg=%23FFD5D5&title_bg=%23FF7575&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false"/>
   </a>
   <br/>
-  <a href="mailto:salee3@sk.com">
-    <img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:salee3@sk.com"/>
-  </a>
-  <a href="https://2er0127.github.io">
-    <img src="https://img.shields.io/badge/githubpages-222222?style=flat&logo=githubpages&logoColor=white"/>
-  </a>
  <!--
   <a href="#">
     <img src="https://img.shields.io/badge/(No access)Velog-20C997?style=flat&logo=Velog&logoColor=white"/>
